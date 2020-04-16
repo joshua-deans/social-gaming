@@ -1,7 +1,11 @@
 # CMPT373 Course Project - Team Donair
 
-## A gaming platform that allows users to communicate, play games together and build custom-made games from a provided JSON spec.
-## Built with C++17 and CMake
+#### A gaming platform that allows users to communicate, play games together and build custom-made games from a provided JSON spec.
+#### Built with C++17 and CMake
+
+## Features
+* Messaging System that manages messaged between the clients and server.
+* JSON Parsing that turns a user-provided JSON into a playable game
 
 ## How to build and use project
 - ## Prerequisites
