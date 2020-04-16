@@ -1,7 +1,7 @@
-# CMPT373 - Team Donair
+# CMPT373 Course Project - Team Donair
 
-Discord Invite: https://discord.gg/UnsuDv
-
+## A gaming platform that allows users to communicate, play games together and build custom-made games from a provided JSON spec.
+## Built with C++17 and CMake
 
 ## How to build and use project
 - ## Prerequisites
